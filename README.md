@@ -20,3 +20,6 @@
 - More on MVC: https://developer.mozilla.org/en-US/docs/Glossary/MVC
 ## Dynamic Routes
 - Official Routing Docs: https://expressjs.com/en/guide/routing.html
+## SQL introduction
+- Learn more about MySQL/ SQL in General: https://www.w3schools.com/sql/
+- Learn more about the Node MySQL Package: https://github.com/sidorares/node-mysql2
