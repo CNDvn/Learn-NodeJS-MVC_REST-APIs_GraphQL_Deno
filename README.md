@@ -25,3 +25,7 @@
 - Learn more about the Node MySQL Package: https://github.com/sidorares/node-mysql2
 ## Sequelize
 - Sequelize Official Docs: http://docs.sequelizejs.com/
+## NoSQL - Working with MongoDB
+- MongoDB Official Docs: https://docs.mongodb.com/manual/core/security-encryption-at-rest/https://docs.mongodb.com/manual/
+- SQL vs NoSQL: https://academind.com/learn/web-dev/sql-vs-nosql/
+- Learn more about MongoDB: https://academind.com/learn/mongodb
