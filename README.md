@@ -44,3 +44,5 @@
 ## Validation
 - Express-Validator Docs: https://express-validator.github.io/docs/
 - Validator.js (which is used behind the scenes) Docs: https://github.com/chriso/validator.js
+## Error Handling
+- Error Handling in Express.js - Official Docs: https://expressjs.com/en/guide/error-handling.html

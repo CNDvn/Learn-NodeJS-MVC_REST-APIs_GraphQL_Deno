@@ -53,12 +53,12 @@ router.post(
       .trim(),
     body("confirmPassword")
       .custom((value, { req }) => {
-        if (value !== req.body.password) {
+        if (value !== req.body.password) {1
           throw new Error("Passwords have to match!");
         }
         return true;
       })
-      .trim(),
+      .trim() ,
   ],
   authController.postSignup
 );
