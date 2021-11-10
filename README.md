@@ -46,3 +46,7 @@
 - Validator.js (which is used behind the scenes) Docs: https://github.com/chriso/validator.js
 ## Error Handling
 - Error Handling in Express.js - Official Docs: https://expressjs.com/en/guide/error-handling.html
+## File Upload & Download
+- Multer Official Docs: https://github.com/expressjs/multer
+- Streaming Files: https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93
+- Generating PDFs with PDFKit: http://pdfkit.org/docs/getting_started.html
