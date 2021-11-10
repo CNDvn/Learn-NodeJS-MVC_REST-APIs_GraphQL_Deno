@@ -54,6 +54,7 @@ app.set("view engine", "ejs");
 app.set("views", "views");
 
 app.use(express.urlencoded({ extended: false }));
+
 app.use(
   multer({ storage: fileStorage, fileFilter: fileFilter }).single("image")
 );

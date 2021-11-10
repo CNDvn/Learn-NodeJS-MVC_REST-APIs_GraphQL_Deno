@@ -50,3 +50,6 @@
 - Multer Official Docs: https://github.com/expressjs/multer
 - Streaming Files: https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93
 - Generating PDFs with PDFKit: http://pdfkit.org/docs/getting_started.html
+## Understanding Async Requests
+- More on the fetch API: https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+- More on AJAX Requests: https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
