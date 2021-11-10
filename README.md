@@ -53,3 +53,5 @@
 ## Understanding Async Requests
 - More on the fetch API: https://developers.google.com/web/updates/2015/03/introduction-to-fetch
 - More on AJAX Requests: https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
+## Adding Payments
+- Official Stripe.js Docs: https://stripe.com/docs
