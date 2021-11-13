@@ -55,3 +55,5 @@
 - More on AJAX Requests: https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
 ## Adding Payments
 - Official Stripe.js Docs: https://stripe.com/docs
+## Async - Await
+- Async-await - More Details: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
