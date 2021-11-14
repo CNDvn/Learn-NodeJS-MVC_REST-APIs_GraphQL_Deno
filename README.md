@@ -57,3 +57,6 @@
 - Official Stripe.js Docs: https://stripe.com/docs
 ## Async - Await
 - Async-await - More Details: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+## Socket & Socket.io
+- Socket.io Official Docs: https://socket.io/get-started/chat/
+- Alternative Websocket Library: https://www.npmjs.com/package/express-ws
