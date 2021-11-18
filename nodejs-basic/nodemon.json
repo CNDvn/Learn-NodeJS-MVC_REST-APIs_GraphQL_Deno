@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "cndvn",
+    "MONGO_PASSWORD": "duchieu123",
+    "MONGO_DEFAULT_DATABASE": "Shop",
+    "PORT": 6969,
+    "STRIPE_KEY": "sk_test_51JuOq6IvYt4hqOTYepDGsqL4RrpO2eFC4pUQbj8ChTWvIGYB8KS8pfpFb2XPf0CM92KEg5kHxzRROD6ElgFPEEjg00wZyTD44l"
+  }
+}

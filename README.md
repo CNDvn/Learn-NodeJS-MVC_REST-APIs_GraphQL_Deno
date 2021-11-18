@@ -62,3 +62,11 @@
 - Alternative Websocket Library: https://www.npmjs.com/package/express-ws
 ## Working with GraphQL
 - Detailed Guide on GraphQL: https://graphql.org
+## Deploying
+- For a more advanced/ detailed approach on logging (with higher control), see this article: https://blog.risingstack.com/node-js-logging-tutorial/
+- Herokus Docs: https://devcenter.heroku.com/categories/reference
+- Deploying SPAs (like our React App): https://medium.com/@baphemot/understanding-react-deployment-5a717d4378fd
+- Alternative Hosting Providers:
+- Amazon Web Services: https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/
+- DigitalOcean: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
+- And of course everything Google yields on "nodejs hosting"
