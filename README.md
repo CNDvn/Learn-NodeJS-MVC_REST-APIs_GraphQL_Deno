@@ -70,3 +70,7 @@
 - Amazon Web Services: https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/
 - DigitalOcean: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
 - And of course everything Google yields on "nodejs hosting"
+## Testing
+- Mocha: https://mochajs.org/
+- Chai: https://www.chaijs.com/
+- Sinon: https://sinonjs.org/
