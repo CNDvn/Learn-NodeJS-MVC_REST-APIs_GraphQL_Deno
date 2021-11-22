@@ -74,3 +74,8 @@
 - Mocha: https://mochajs.org/
 - Chai: https://www.chaijs.com/
 - Sinon: https://sinonjs.org/
+## Node.js as a Build Tool & Using npm
+- Official npm Docs: https://docs.npmjs.com/
+- Learn more about Webpack (a build tool using Node.js): https://academind.com/learn/webpack
+## Modern JavaScript & NodeJS
+- More on Node & ES Modules: https://nodejs.org/dist/latest-v14.x/docs/api/esm.html
